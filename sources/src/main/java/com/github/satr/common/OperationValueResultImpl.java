@@ -1,4 +1,5 @@
 package com.github.satr.common;
+// Copyright © 2019, github.com/satr, MIT License
 
 public class OperationValueResultImpl<T> extends OperationResultImpl implements OperationValueResult<T> {
     private T value;
